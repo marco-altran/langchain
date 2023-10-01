@@ -1,5 +1,5 @@
 name: "\U0001F41B Bug Report"
-description: Submit a bug report to help us improve LangChain
+description: Submit a bug report to help us improve LangChain. To report a security issue, please instead use the security option below.
 labels: ["02 Bug Report"]
 body:
   - type: markdown
@@ -46,7 +46,7 @@ body:
         - @agola11
 
         Tools / Toolkits
-        - @vowelparrot
+        - ...
 
       placeholder: "@Username ..."
 
